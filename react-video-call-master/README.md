@@ -25,44 +25,32 @@ Welcome to the React Video Call App, a real-time video calling application that 
 
 ## Installation
 
-1. Clone this repository to your local machine:
-
-```
-git clone https://github.com/simranlotey/react-video-call.git
-```
-
-2. Change into the project directory:
-
-```
-cd react-video-call
-```
-
-3. Install the required dependencies:
+1. Install the required dependencies:
 
 ```
 npm install
 ```
 
-4. Start the server:
+2. Start the server:
 
 ```
 npm start
 ```
 
-5. Install the required dependencies for the client:
+3. Install the required dependencies for the client:
 
 ```
 cd client
 npm install
 ```
 
-6. Start the development server:
+4. Start the development server:
 
 ```
 npm start
 ```
 
-7. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
+5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
 
 ## Usage
 
@@ -70,25 +58,6 @@ npm start
 2. Use the controls to mute/unmute your microphone and enable/disable your camera during the call.
 3. Enjoy real-time video communication with your friends and colleagues!
 
-## Deployment
-
-- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url](https://yourvideoshare.netlify.app/).
-
-- **Backend Hosting**: The backend of this application is hosted on [Render.com](https://render.com/). You can access it at [Backend url](https://video-call-server-gm7i.onrender.com).
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request to the `master` branch of this repository.
-
-## Contact
-
-If you have any questions or suggestions, please feel free to contact us at [simranlotey01@gmail.com](mailto:simranlotey01@gmail.com).
 
 Thank you for using the React Video Call App!
 
